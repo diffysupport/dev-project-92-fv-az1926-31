@@ -1,12 +1,12 @@
 basic:
-    name: 'Ms. Jaida Luettgen'
+    name: 'Patricia VonRueden'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://roberts.com/qui-corrupti-dolores-hic-eius.html'
-        - 'https://stokes.com/id-dolorem-fugit-est-ea-aut-blanditiis-porro'
+        - 'https://www.lueilwitz.com/nesciunt-ut-recusandae-consequatur-minima.html'
+        - 'https://aufderhar.com/'
     monitoring:
         days: {  }
         type: ''
