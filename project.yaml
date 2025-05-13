@@ -1,0 +1,30 @@
+basic:
+    name: 'Ms. Jaida Luettgen'
+    breakpoints:
+        - 640
+        - 1024
+        - 1200
+    pages:
+        - 'https://roberts.com/qui-corrupti-dolores-hic-eius.html'
+        - 'https://stokes.com/id-dolorem-fugit-est-ea-aut-blanditiis-porro'
+    monitoring:
+        days: {  }
+        type: ''
+advanced:
+    mask: ''
+    remove: ''
+    isolate: ''
+    delay: 15
+    scroll: true
+    headers:
+        - { header: '', value: '' }
+    cookies: ''
+    custom_js: ''
+    custom_css: ''
+    mock_content: ''
+    performance:
+        workers_production: 30
+        workers_nonproduction: 10
+        workers_production_delay: 0
+        workers_nonproduction_delay: 0
+    stabilize: true
